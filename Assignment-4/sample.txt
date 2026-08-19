@@ -1,0 +1,7 @@
+EPAM Assignment 4
+Git and Version Control
+
+This file is used to demonstrate Git operations.
+Git allows developers to track changes and maintain different versions of files.
+
+This change was made in the feature branch.
