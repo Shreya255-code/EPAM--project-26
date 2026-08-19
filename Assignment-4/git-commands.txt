@@ -1,0 +1,37 @@
+Git Commands
+
+git init
+Initializes a new Git repository.
+
+git status
+Shows the current status of the repository.
+
+git add
+Adds changes to the staging area.
+
+git commit
+Saves staged changes to the local repository.
+
+git log
+Displays commit history.
+
+git branch
+Creates or displays branches.
+
+git switch
+Switches between branches.
+
+git merge
+Combines changes from one branch into another.
+
+git clone
+Creates a local copy of a remote repository.
+
+git pull
+Downloads and integrates changes from a remote repository.
+
+git push
+Uploads local commits to a remote repository.
+
+git remote
+Manages connections to remote repositories.
