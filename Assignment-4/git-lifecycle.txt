@@ -1,0 +1,38 @@
+GIT LIFECYCLE
+
+1. Working Directory
+   Files are created or modified here.
+
+              ↓ git add
+
+2. Staging Area
+   Changes are prepared for committing.
+
+              ↓ git commit
+
+3. Local Repository
+   Changes are saved as commits.
+
+              ↓ git push
+
+4. Remote Repository
+   The repository is stored online, such as on GitHub.
+
+git pull is used to obtain changes from the remote repository.
+
+
+Git Lifecycle:
+
+Working Directory
+       ↓
+   git add
+       ↓
+Staging Area
+       ↓
+  git commit
+       ↓
+Local Repository
+       ↓
+   git push
+       ↓
+Remote Repository
